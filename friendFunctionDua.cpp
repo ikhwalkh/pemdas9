@@ -19,6 +19,7 @@ class pelajar
     friend void manusia::showNilaipelajar(pelajar &x);
 };
 
+//void buat lihat nilai
 void manusia::showNilaipelajar(pelajar &x)
 {
     cout << x.nilai;
