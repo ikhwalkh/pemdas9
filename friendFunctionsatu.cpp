@@ -19,6 +19,7 @@ void setNama(mahasiswa &a, string b)
     cout << a.nama;
 }
 
+//untuk menjalankan perintah
 int main()
 {
     mahasiswa joko;
