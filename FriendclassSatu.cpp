@@ -25,6 +25,8 @@ class siswa
     void displayAll(orang &a);
 };
 
+
+//void buat menamapilkan
 void siswa::displayAll(orang &a)
 {
     cout << id << endl << a.nama;
