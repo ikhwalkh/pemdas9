@@ -12,6 +12,7 @@ public:
     friend void setNama(mahasiswa &a, string);
 };
 
+//void nama
 void setNama(mahasiswa &a, string b)
 {
     a.nama = b;
