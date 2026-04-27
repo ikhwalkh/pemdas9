@@ -39,6 +39,8 @@ void siswa::setId(int pId)
 {
     id = pId;
 }
+
+// untuk menampilkan semua perintah
 int main()
 {
     orang joko;
